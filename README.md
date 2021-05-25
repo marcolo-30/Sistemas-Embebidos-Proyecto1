@@ -38,7 +38,7 @@ A continuación, se indica la programación implementada para el segundo objetiv
 | Lenguaje      | Programa |
 | ------------- | ------------- |
 |Bash  | [Aplicación Sensor en Bash](https://github.com/Fredycuellar/Proyecto1_Sistemas_Embebidos/blob/a044cc04f32c177029d4b6a671705c3089545bdf/Sensor_Bash) |
-|Informe  | [Proyecto1.pdf](https://github.com/Fredycuellar/Proyecto1_Sistemas_Embebidos/blob/a044cc04f32c177029d4b6a671705c3089545bdf/Sensor_Bash) |
+|Informe  | [Proyecto1.pdf](https://github.com/marcolo-30/Sistemas-Embebidos-Proyecto1/blob/main/Proyecto_Sistemas_Embebidos.pdf) |
 
 **Para ejecutar el código de C en consola se realiza lo siguiente:**
 bash ./sensor.sh
